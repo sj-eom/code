@@ -4,8 +4,6 @@ import pandas as pd
 pd.set_option('mode.chained_assignment',  None) # 경고 off
 
 
-![image](https://user-images.githubusercontent.com/121787538/211461732-bb5561af-a1f8-46c8-a326-fb95e8ff2326.png)
-
 #%%
 
 path = 'C:/Users/PC/OneDrive - UNIST/SPARTAN/FilterBased_ReconstrPM25_KRUL (9).csv'
