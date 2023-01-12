@@ -1,17 +1,6 @@
-'''2022.06.27 Sujin Eom'''
-'''2022.07.06~08 Sujin Eom'''
-'''2022.07.11 Sujin Eom'''
-'''2022.10.04 Sujin Eom - renewal'''
-#%%
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-pd.set_option('mode.chained_assignment',  None) # 경고 off
-
-#%% PATH 
-
-path = 'C:/Users/PC/OneDrive - UNIST/SPARTAN/aeronet_seoul/20190101_20221231_Seoul_SNU' #서울대 자료
+# path = 'C:/Users/PC/OneDrive - UNIST/SPARTAN/aeronet_seoul/20190101_20221231_Seoul_SNU' #서울대 자료
 # path = 'C:/Users/PC/OneDrive - UNIST/SPARTAN/aeronet_yonsei/20190101_20221231_Yonsei_University' #연세대 자료
+path = 'C:/Users/PC/OneDrive - UNIST/SPARTAN/aeronet_unist/20200101_20221231_KORUS_UNIST_Ulsan' #유니스트 자료
 
 data_aod = path+'.lev15'
 data_ssa = path+'.ssa'
