@@ -1,4 +1,4 @@
-
+import numpy.ma as ma
 
 operation = ma.masked_where(lat > lat_max, operation)
 operation = ma.masked_where(lat < lat_min, operation)
