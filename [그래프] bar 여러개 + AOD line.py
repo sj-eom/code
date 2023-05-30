@@ -1,3 +1,5 @@
+paper_spartan/spartan_aod_bar_type
+
 
 fig3, ax3 = plt.subplots(figsize = (20,8))
 
