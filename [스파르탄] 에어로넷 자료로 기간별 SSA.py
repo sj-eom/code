@@ -1,3 +1,5 @@
+paper_spartan/spartan_siz_ssa_plot_each_period_corr_plot
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
