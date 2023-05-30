@@ -1,3 +1,5 @@
+파일경로 zzzzCODEzzzz spartan+total_parameter
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
